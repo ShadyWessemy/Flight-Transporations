@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [KPI](#kpi)
-- [Data Modeling & Architecture](#data-modeling-&-architecture)
+- [Data Modeling and Architecture](#data-modeling-and-architecture)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -34,7 +34,7 @@ This project aims to analyze the flights transportation between the states in US
 - Performance 
   -  Departure & Arrival Delay Analysis.
  
-### Data Modeling & Architecture
+### Data Modeling and Architecture
 --- 
 - Data Modeling
   
