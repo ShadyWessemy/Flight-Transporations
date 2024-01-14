@@ -5,6 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [KPI](#kpi)
+- [Data Modeling & Architecture](#data-modeling-&-architecture)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -32,6 +33,16 @@ This project aims to analyze the flights transportation between the states in US
 
 - Performance 
   -  Departure & Arrival Delay Analysis.
+ 
+### Data Modeling & Architecture
+--- 
+- Data Modeling
+  
+![image](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/d8cc6156-0f68-46c9-af21-e59232045c06)
+
+- Data Architecture
+  
+![Data Architecture](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/619a149e-6c9c-4cbb-9db2-e0541ea60e3e)
 
 ### Tools 
 ---
