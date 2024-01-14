@@ -47,7 +47,6 @@ This project aims to analyze the flights transportation between the states in US
 ### Tools 
 ---
 - **Alteryx** - Data Cleaning & Profiling
-- **SQL Server** - Data Analysis
 - **PowerBI** - Creating Dashboards
 
 ### Data Cleaning
@@ -72,7 +71,9 @@ The analysis results are summarized as follows:
 
 ### Dashboard
 ---
-
+- Overview
+  - Analyzing number of flights with its destinations, Delay & Cancellation performance.
+    
 
 ### Conclusion
 ---
