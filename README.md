@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [KPI's](#kpi-s)
+- [KPI'S](#kpi's)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -15,11 +15,11 @@
 ---
 This project aims to analyze the flights transportation between the states in US to gain insights such as: cancellation & delay analysis, monthly or yearly trends flights with each airport and the flow between the states. We choose 2 years as our scope to analyze (2021-2022).
 
-### Data Sources 
+### Data Sources
 ---
 - **Transtats:** Extract the transportation data for a specific month and a specific columns.
 
-### KPI's 
+### KPI'S
 ---
 - Quick Overview
    - Total Flights, Distance Travelled, Delay, Cancellation & Diversion percentage.
