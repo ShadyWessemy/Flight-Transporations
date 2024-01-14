@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [KPI'S](#kpi's)
+- [KPI](#kpi)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -19,7 +19,7 @@ This project aims to analyze the flights transportation between the states in US
 ---
 - **Transtats:** Extract the transportation data for a specific month and a specific columns.
 
-### KPI'S
+### KPI
 ---
 - Quick Overview
    - Total Flights, Distance Travelled, Delay, Cancellation & Diversion percentage.
