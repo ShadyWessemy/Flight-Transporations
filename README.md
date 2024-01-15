@@ -1,4 +1,4 @@
-# Flight-Transporations
+![image](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/5ca0c2a0-e6a3-430f-aa99-93510c0401bd)# Flight-Transporations
 
 ## Table of Contents
 
@@ -71,9 +71,25 @@ The analysis results are summarized as follows:
 
 ### Dashboard
 ---
+
+- Objectives
+  - Tracking performance, analyzing flight delays and monitoring cancellations.
+
 - Overview
-  - Analyzing number of flights with its destinations, Delay & Cancellation performance.
-    
+  - Analyzing number of flights with its destinations.
+
+    ![Overview](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/834b51b4-faa5-46af-a114-d5323a654b85)
+
+- Key Metrics
+  -  Delay & Cancellation performance.
+
+    ![D C 1](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/867f242d-f920-4072-a937-40e3a06b3c9f)
+
+    ![D C 2](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/736ef97d-28fd-4821-9932-d32650425904)
+
+  - Departure & Arrival Performance
+
+    ![Performance](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/4d1d8083-4eb4-4a3e-9591-fd661152836a)
 
 ### Conclusion
 ---
