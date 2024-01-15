@@ -90,7 +90,10 @@ The analysis results are summarized as follows:
   - Departure & Arrival Performance
 
     ![Performance](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/4d1d8083-4eb4-4a3e-9591-fd661152836a)
+    
+- User-Interactivity
+  - In each page the user can filter the visuals through the slicers to choose a specific time analysis or a specific origin or destination state.
 
 ### Conclusion
 ---
-- 
+- Performance monitoring, Trend analysis and data-driven decision making. 
