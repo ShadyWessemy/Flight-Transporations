@@ -62,12 +62,17 @@ In this phase we performed the following tasks:
 ---
 EDA involved Exploring the transportation data to answer key questions, such as:
 
-- 
-
+- What is the cancellation and diversion rate of the flights ?
+- How was the on-time performance of the departure & arrival ?
+- How is the flow of flights between states ?
+- What is the most and top reasons that affect the delay and cancellation ? 
+ 
 ### Results 
 ---
 The analysis results are summarized as follows:
-1.
+1. Carrier and Late Air Craft is the most reasons that affect the transportation delay.
+2. Carrier and weather is the most common reasons that affect the cancellation of the flights.
+3. In our scope ( 2021-2022 ), The airports in Florida & Texas makes them the top 2 states in that's affect the delay ratio.
 
 ### Dashboard
 ---
