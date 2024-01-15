@@ -1,5 +1,3 @@
-![image](https://github.com/ShadyWessemy/Flights-Transporation/assets/73957793/5ca0c2a0-e6a3-430f-aa99-93510c0401bd)# Flight-Transporations
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
